@@ -1,0 +1,29 @@
+.card-img-top {
+    margin-right: 10px;
+}
+
+.contacts > ul, a {
+    justify-content: space-evenly;
+    color: rgb(163, 158, 158);
+    margin-right: 2vh;
+    text-decoration: none;
+}
+
+.nav-links:hover {
+    text-decoration: none;
+    color: rgba(104, 146, 146, 0.5);
+    transition: all 200ms;
+}
+
+#skills > ul, a {
+    list-style-type: none;
+}
+
+footer .bg-light {
+    background-color: azure;
+}
+
+.mb-1 > a:hover, .mb-1 > a:focus {
+    opacity: 70%;
+    transition: all 200ms;
+}
