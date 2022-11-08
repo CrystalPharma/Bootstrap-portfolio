@@ -1,4 +1,4 @@
-# Unit 3 Challenge: Code Bootstrap Portfolio
+# Code Bootstrap Portfolio
 
 ## Overview
 
